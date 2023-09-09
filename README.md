@@ -1,2 +1,1 @@
-# linkedin
-linked in with python
+linked in .python
